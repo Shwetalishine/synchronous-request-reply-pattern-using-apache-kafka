@@ -1,0 +1,6 @@
+com\kafka\kafkasync\KafkaConfig.class
+com\kafka\kafkasync\KafkaTestController.class
+com\kafka\kafkasync\Student.class
+com\kafka\kafkasync\KafkaSyncApplication.class
+com\kafka\kafkasync\StudentResultCalculator.class
+com\kafka\kafkasync\Result.class
